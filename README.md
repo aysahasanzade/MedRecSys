@@ -38,12 +38,10 @@ Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel 
 
 ![Capture](https://github.com/user-attachments/assets/556569b3-e032-4414-a4f1-00c6d1d1d534)
 
+![photo_2025-09-25_16-23-12](https://github.com/user-attachments/assets/108b48ba-8693-4c6f-ba8d-d17b0e2fcf78)
 
 **Testing in real data**
 
 **Save weights and public code**
 
-
-
-![photo_2025-09-25_16-23-12](https://github.com/user-attachments/assets/6a937941-844d-4e6d-a2ea-6e8db40fd6e0)
 
