@@ -45,6 +45,11 @@ Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel 
 
 
 
+
+COLLABORATION WITH: https://github.com/Ramin1Mousa/MedicalRec/tree/main
+
+
+
 **Save weights and public code**
 
 
