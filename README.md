@@ -1,7 +1,7 @@
 # MedRecSys
 Medical Recommender System for image classification without retraining
 
-![image](https://github.com/user-attachments/assets/66c386ee-cf130-44da-9fb2-110fcd0a579d)
+![image](https://github.com/user-attachments/assets/66c386ee-cf40-44da-9fb2-110fcd0a579d)
 
 # Classification Task
 
