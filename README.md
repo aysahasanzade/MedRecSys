@@ -44,12 +44,11 @@ Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel 
 **Testing in real data**
 
 
-
-
-COLLABORATION WITH: https://github.com/Ramin1Mousa/MedicalRec/tree/main
-
-
-
 **Save weights and public code**
 
 
+
+
+
+
+COLLABORATION WITH:[ MedicalRec](https://github.com/Ramin1Mousa/MedicalRec/tree/main)
