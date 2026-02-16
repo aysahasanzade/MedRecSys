@@ -1,0 +1,48 @@
+Bridging the gap between state-of-the-art medical AI research and clinical workflow integration
+
+![image](https://img.shields.io/badge/python-3.9+-blue.svg)
+![image](https://img.shields.io/badge/framework-Flask-green.svg)
+![image](https://img.shields.io/badge/research-Translational%2520AI-orange)
+![image](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+┌─────────────────────────────────────────────────────────────┐
+│                      CLIENT LAYER                          │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐       │
+│  │   React UI  │  │   D3.js     │  │  PDF/HL7    │       │
+│  │   Dashboard │  │Visualization│  │   Export    │       │
+│  └─────────────┘  └─────────────┘  └─────────────┘       │
+└─────────────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                     APPLICATION LAYER                      │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │                Flask REST API                       │   │
+│  │  • Authentication  • Session Management           │   │
+│  │  • Request Routing • Data Validation             │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────────┐    │
+│  │ Inference   │  │   Feature   │  │    Report       │    │
+│  │   Engine    │  │   Extractor │  │   Generator     │    │
+│  └─────────────┘  └─────────────┘  └─────────────────┘    │
+└─────────────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                      MODEL LAYER                           │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │         NeuroMarkerAI Integration                   │   │
+│  │  • Pre-trained 3D CNNs   • Attention ViT          │   │
+│  │  • Ensemble models       • Explainability maps    │   │
+│  └─────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                      DATA LAYER                            │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────────┐    │
+│  │  PostgreSQL │  │   Redis     │  │    S3/Cloud     │    │
+│  │ (Patients)  │  │  (Cache)    │  │  (NIfTI/Images) │    │
+│  └─────────────┘  └─────────────┘  └─────────────────┘    │
+└─────────────────────────────────────────────────────────────┘
