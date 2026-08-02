@@ -45,6 +45,38 @@ Ref | #Sample| #Train | #Test | #Validation | K-fold | Width | hight | #channel 
 
 
 **Save weights and public code**
+# MedRecSys
+
+## Project Description
+Medical Recommender System for image classification without retraining. This project introduces a zero-shot learning framework that eliminates the need for retraining on new datasets, reducing computational costs and accelerating clinical deployment.
+
+## Key Features
+- Zero-shot learning for medical image classification
+- Adaptive framework for new categories
+- Open-source codebase
+
+## Research Paper
+This work is currently under review at **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+
+- Preprint: [Link to arXiv](https://arxiv.org/abs/2606.07553)
+- GitHub Repository: [Link](https://github.com/aysahasanzade/MedRecSys)
+
+## Author
+**Aysa Hasanzade Bashkandi**
+- [Google Scholar](https://scholar.google.com/citations?user=5wW7R3UAAAAJ&hl=en)
+- [GitHub](https://github.com/aysahasanzade)
+- [ORCID](https://orcid.org/0009-0001-0413-3367)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+This project was developed through independent research collaboration with Toronto Metropolitan University.
+
+
+
+
+
 
 
 
